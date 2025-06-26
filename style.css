@@ -1,0 +1,135 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.center-img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.text-flex {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.contianer {
+width: 1400px;
+margin: 0 auto;
+
+}
+
+.box-con {
+background-color: rgb(158, 118, 180);
+}
+
+.menu{
+display: flex;;
+}
+
+a {
+color:rgb(255, 255, 255);
+text-decoration: none;
+}
+
+li {
+list-style: none;
+margin-right: 1rem;
+font-size: 1.2rem;
+}
+
+.text-head{
+color:rgb(255, 255, 255);
+font-size: 3rem;
+}
+
+.img-head {
+    width: 12%;
+    margin: 0 auto;
+    display: block;
+}
+
+.con-sec {
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+border: 3px;
+background-color: rgb(158, 118, 180);
+border-radius: 15px;
+}
+
+.text-top{
+padding-top: 2rem;
+padding-left: 1rem;
+text-align: left;
+}
+
+.text-mid{
+padding-left: 1rem;
+text-align: left;
+}
+
+.text-bot{
+padding-top: 2rem;
+padding-bottom: 2rem;
+padding-left: 1rem;
+text-align: left;
+}
+
+.text-name{
+padding-top: 1rem;
+padding-bottom: 1rem;
+text-align: center;
+}
+
+.text-rt{
+padding-top: 1rem;
+padding-bottom: 1rem;
+padding-left: 1rem;
+text-align: left;
+}
+
+.ibm-plex-sans-thai-thin {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.ibm-plex-sans-thai-extralight {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.ibm-plex-sans-thai-light {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ibm-plex-sans-thai-regular {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-sans-thai-medium {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ibm-plex-sans-thai-semibold {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.ibm-plex-sans-thai-bold {
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
